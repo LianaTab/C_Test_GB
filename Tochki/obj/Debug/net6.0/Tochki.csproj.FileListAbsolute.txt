@@ -1,0 +1,15 @@
+/Users/liana/Desktop/C_Test/Lesson1/Tochki/bin/Debug/net6.0/Tochki
+/Users/liana/Desktop/C_Test/Lesson1/Tochki/bin/Debug/net6.0/Tochki.deps.json
+/Users/liana/Desktop/C_Test/Lesson1/Tochki/bin/Debug/net6.0/Tochki.runtimeconfig.json
+/Users/liana/Desktop/C_Test/Lesson1/Tochki/bin/Debug/net6.0/Tochki.dll
+/Users/liana/Desktop/C_Test/Lesson1/Tochki/bin/Debug/net6.0/Tochki.pdb
+/Users/liana/Desktop/C_Test/Lesson1/Tochki/obj/Debug/net6.0/Tochki.csproj.AssemblyReference.cache
+/Users/liana/Desktop/C_Test/Lesson1/Tochki/obj/Debug/net6.0/Tochki.GeneratedMSBuildEditorConfig.editorconfig
+/Users/liana/Desktop/C_Test/Lesson1/Tochki/obj/Debug/net6.0/Tochki.AssemblyInfoInputs.cache
+/Users/liana/Desktop/C_Test/Lesson1/Tochki/obj/Debug/net6.0/Tochki.AssemblyInfo.cs
+/Users/liana/Desktop/C_Test/Lesson1/Tochki/obj/Debug/net6.0/Tochki.csproj.CoreCompileInputs.cache
+/Users/liana/Desktop/C_Test/Lesson1/Tochki/obj/Debug/net6.0/Tochki.dll
+/Users/liana/Desktop/C_Test/Lesson1/Tochki/obj/Debug/net6.0/refint/Tochki.dll
+/Users/liana/Desktop/C_Test/Lesson1/Tochki/obj/Debug/net6.0/Tochki.pdb
+/Users/liana/Desktop/C_Test/Lesson1/Tochki/obj/Debug/net6.0/Tochki.genruntimeconfig.cache
+/Users/liana/Desktop/C_Test/Lesson1/Tochki/obj/Debug/net6.0/ref/Tochki.dll

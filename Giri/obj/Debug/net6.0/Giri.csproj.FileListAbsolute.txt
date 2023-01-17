@@ -1,0 +1,15 @@
+/Users/liana/Desktop/C_Test/Lesson1/Giri/bin/Debug/net6.0/Giri
+/Users/liana/Desktop/C_Test/Lesson1/Giri/bin/Debug/net6.0/Giri.deps.json
+/Users/liana/Desktop/C_Test/Lesson1/Giri/bin/Debug/net6.0/Giri.runtimeconfig.json
+/Users/liana/Desktop/C_Test/Lesson1/Giri/bin/Debug/net6.0/Giri.dll
+/Users/liana/Desktop/C_Test/Lesson1/Giri/bin/Debug/net6.0/Giri.pdb
+/Users/liana/Desktop/C_Test/Lesson1/Giri/obj/Debug/net6.0/Giri.csproj.AssemblyReference.cache
+/Users/liana/Desktop/C_Test/Lesson1/Giri/obj/Debug/net6.0/Giri.GeneratedMSBuildEditorConfig.editorconfig
+/Users/liana/Desktop/C_Test/Lesson1/Giri/obj/Debug/net6.0/Giri.AssemblyInfoInputs.cache
+/Users/liana/Desktop/C_Test/Lesson1/Giri/obj/Debug/net6.0/Giri.AssemblyInfo.cs
+/Users/liana/Desktop/C_Test/Lesson1/Giri/obj/Debug/net6.0/Giri.csproj.CoreCompileInputs.cache
+/Users/liana/Desktop/C_Test/Lesson1/Giri/obj/Debug/net6.0/Giri.dll
+/Users/liana/Desktop/C_Test/Lesson1/Giri/obj/Debug/net6.0/refint/Giri.dll
+/Users/liana/Desktop/C_Test/Lesson1/Giri/obj/Debug/net6.0/Giri.pdb
+/Users/liana/Desktop/C_Test/Lesson1/Giri/obj/Debug/net6.0/Giri.genruntimeconfig.cache
+/Users/liana/Desktop/C_Test/Lesson1/Giri/obj/Debug/net6.0/ref/Giri.dll
