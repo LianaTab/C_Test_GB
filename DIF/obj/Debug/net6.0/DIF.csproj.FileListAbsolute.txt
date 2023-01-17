@@ -1,0 +1,15 @@
+/Users/liana/Desktop/GB/C_Test/Lesson1/DIF/bin/Debug/net6.0/DIF
+/Users/liana/Desktop/GB/C_Test/Lesson1/DIF/bin/Debug/net6.0/DIF.deps.json
+/Users/liana/Desktop/GB/C_Test/Lesson1/DIF/bin/Debug/net6.0/DIF.runtimeconfig.json
+/Users/liana/Desktop/GB/C_Test/Lesson1/DIF/bin/Debug/net6.0/DIF.dll
+/Users/liana/Desktop/GB/C_Test/Lesson1/DIF/bin/Debug/net6.0/DIF.pdb
+/Users/liana/Desktop/GB/C_Test/Lesson1/DIF/obj/Debug/net6.0/DIF.csproj.AssemblyReference.cache
+/Users/liana/Desktop/GB/C_Test/Lesson1/DIF/obj/Debug/net6.0/DIF.GeneratedMSBuildEditorConfig.editorconfig
+/Users/liana/Desktop/GB/C_Test/Lesson1/DIF/obj/Debug/net6.0/DIF.AssemblyInfoInputs.cache
+/Users/liana/Desktop/GB/C_Test/Lesson1/DIF/obj/Debug/net6.0/DIF.AssemblyInfo.cs
+/Users/liana/Desktop/GB/C_Test/Lesson1/DIF/obj/Debug/net6.0/DIF.csproj.CoreCompileInputs.cache
+/Users/liana/Desktop/GB/C_Test/Lesson1/DIF/obj/Debug/net6.0/DIF.dll
+/Users/liana/Desktop/GB/C_Test/Lesson1/DIF/obj/Debug/net6.0/refint/DIF.dll
+/Users/liana/Desktop/GB/C_Test/Lesson1/DIF/obj/Debug/net6.0/DIF.pdb
+/Users/liana/Desktop/GB/C_Test/Lesson1/DIF/obj/Debug/net6.0/DIF.genruntimeconfig.cache
+/Users/liana/Desktop/GB/C_Test/Lesson1/DIF/obj/Debug/net6.0/ref/DIF.dll
